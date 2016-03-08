@@ -1,5 +1,5 @@
 # StardewValley RemoveExit
-A Stardew Valley SMAPI mod that prevents the user from exiting the game. 
+A Stardew Valley [SMAPI](https://github.com/ClxS/SMAPI) mod that prevents the user from exiting the game. 
 
 # Why?
 
